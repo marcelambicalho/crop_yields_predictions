@@ -74,12 +74,6 @@ To build a predictive model that estimates crop yields using features such as ra
 
 ---
 
-## 📎 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
----
-
 ## 🤝 Acknowledgements
 
 - Data sourced from FAO via Kaggle.
