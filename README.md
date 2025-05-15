@@ -8,19 +8,6 @@ To build a predictive model that estimates crop yields using features such as ra
 
 ---
 
-## 📂 Project Structure
-
-```
-
-├── data/
-│   └── yield\_df.csv                 # Raw dataset
-├── notebooks/
-│   └── crop\_yields\_analysis.ipynb  # Data analysis and model notebook
-├── README.md                       # Project overview
-
-
----
-
 ## 📄 Dataset Overview
 
 - Source: [Kaggle – Crop Yield Prediction](https://www.kaggle.com/code/mohsin31202/crop-yield-prediction)
